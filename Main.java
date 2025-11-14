@@ -4,7 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 
 		// Loop #1 (could we re-write this as a for-loop?)
-		System.out.println("---LOOP #1---");
+		System.out.println("\n---LOOP #1---");
 
 		boolean hasHomework = true;
 		int hwAssignments = 8;
@@ -19,7 +19,7 @@ public class Main {
 		}
 
 		// Loop #2 (nested loops)
-		System.out.println("---LOOP #2---");
+		System.out.println("\n---LOOP #2---");
 
 		for (int row = 3; row <= 9; row++) {
 			for (int col = 6; col > 0; col--) {
@@ -29,7 +29,7 @@ public class Main {
 		}
 
 		// Loop #3 (user-controlled loop)
-		System.out.println("---LOOP #3---");
+		System.out.println("\n---LOOP #3---");
 
 		Scanner input = new Scanner(System.in);
 		System.out.println("Say something!");
