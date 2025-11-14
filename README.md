@@ -1,4 +1,4 @@
-# CS2 Wk13 CodeCollab
+# CS2 Wk11 CodeCollab
 
 This repository provides the **working program** for this week's **CodeCollab homework assignment**. 
 
